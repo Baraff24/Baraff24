@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Baraff24
+- 👋 Hi, I’m Raffaele Grieco | @Baraff24 on GitHub
 - 👀 I’m interested in Back-end development but I do Front-end dev to
 - 📫 You can reach me by my personal WebSite, my e-mail address and LinkedIn
 
