@@ -13,6 +13,8 @@
 
 - 🔭 I’m interested in back-end development but I do Front-end and mobile dev to
 
+- 🧑‍💻 Individual Member of the Django Software Foundation
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raffaele_g24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raffaele_g24" height="30" width="40" /></a>
