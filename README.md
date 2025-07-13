@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baraff24" alt="baraff24" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.raffaelegrieco.it/blog/](https://www.raffaelegrieco.it/blog/)
-
 - 💬 Ask me about **Django, DRF, Docker and more**
 
 - 📫 How to reach me [https://www.raffaelegrieco.it/](https://www.raffaelegrieco.it/) or **email@raffaelegrieco.it**
